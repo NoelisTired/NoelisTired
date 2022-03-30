@@ -1,7 +1,7 @@
 <h1 align="center">Wassup 👋, I'm NoelP</h1>
 <h3 align="center">I consider myself a learning developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noelistired&label=Profile%20views&color=0e75b6&style=flat" alt="noelistired" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=noelistired&label=Profile%20views&color=0e75b6&style=flat" alt="noelistired" /> </p>
 
 - 🔭 I’m currently working on [TikTok AIO / API](https://github.com/NoelisTired/TikTok-RestAPI)
 
