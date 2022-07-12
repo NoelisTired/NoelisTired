@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 <p href="https://noelp.live/" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/931197476038393937/>
 </p>  
