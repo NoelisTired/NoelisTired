@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Orisis AI / NoelP X](https://github.com/NoelisTired/TikTok-RestAPI)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Flask, Requests and Automation!**
 
 - ⚡ Fun fact **I am the funniest person alive**
 
