@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
 <p href="https://noelp.live/" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/931197476038393937/>
 </p>  
@@ -39,7 +44,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
-<table><tr><td valign="top" width="33%">
+
+</td><td valign="top" width="33%">
+
+
 
 ### Backend  
 <div align="center">  
@@ -54,7 +62,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 </div>
-<table><tr><td valign="top" width="33%">
+
+</td><td valign="top" width="33%">
 
 
 
