@@ -11,13 +11,13 @@
 ### <div align="center"><h4>I'm NoelP, a Student from the Netherlands 👨‍💻 working remotely since 2020 🚀<h4/></div>  
   
 <br>
-    <center>🔭 I’m currently working on  Orisis AI / NoelP X<center/>  
+    🔭 I’m currently working on  Unrelated Projects that i post on GitHub
 
 
-    <center>🌱 I’m currently learning PHP and C# <center/>  
+    🌱 I’m currently learning Collaboration, C#, PHP and Javascript
 
 
-    <center>❓ Ask me about anything related to Python and related technologies<center/>  
+    ❓ Ask me about anything related to Python and related technologies
 
 
     ⚡ Fun fact: I indent all my code, i hate minified code!
