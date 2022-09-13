@@ -20,7 +20,7 @@
     <center>❓ Ask me about anything related to Python and related technologies<center/>  
 
 
-    <center>⚡ Fun fact: I indent all my code, i hate minified code!<center/>  
+    ⚡ Fun fact: I indent all my code, i hate minified code!
 
 <br/>  
 
