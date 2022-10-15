@@ -11,9 +11,6 @@
 ### <div align="center"><h4>I'm NoelP, a Student from the Netherlands 👨‍💻 working remotely since 2020 🚀<h4/></div>  
   
 <br>
-    🔭 I’m currently working on  Unrelated Projects that i post on GitHub
-
-
     🌱 I’m currently learning Collaboration, C#, PHP and Javascript
 
 
