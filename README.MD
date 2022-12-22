@@ -11,13 +11,10 @@
 ### <div align="center"><h4>I'm NoelP, a Student from the Netherlands 👨‍💻 working remotely since 2020 🚀<h4/></div>  
   
 <br>
-    🌱 I’m currently learning Collaboration, C#, PHP and Javascript
+    🌱 I’m currently learning Disassembly of Python(3.10) Bytecode and .NET Development
 
 
-    ❓ Ask me about anything related to Python and related technologies
-
-
-    ⚡ Fun fact: I indent all my code, i hate minified code!
+    ❓ Ask me about anything related to Python and related technologies.
 
 <br/>  
 
@@ -50,7 +47,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NoelisTired&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" align="center" /></div>  
  
 
 <br/>  
