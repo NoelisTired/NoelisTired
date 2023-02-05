@@ -1,5 +1,5 @@
 <p href="https://noelp.live/" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/931197476038393937/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/1065611150655492147/>
 </p>  
   
 
