@@ -11,7 +11,7 @@
 ### <div align="center"><h4>I'm NoelP, a Student from the Netherlands 👨‍💻 working remotely since 2020 🚀<h4/></div>  
   
 <br>
-    🌱 I’m currently learning Disassembly of Python(3.10) Bytecode and .NET Development
+    🌱 I’m currently learning .NET Development together with XAML and UWP
 
 
     ❓ Ask me about anything related to Python and related technologies.
