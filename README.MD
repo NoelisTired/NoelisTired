@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NoelP</h1>
 <h3 align="center">A passionate backend developer from The Netherlands!</h3>
-<div style="display: flex; justify-content: center">
+<div align="center">
     <img src="https://lanyard.cnrad.dev/api/1090282176492339220">
 </div>
     
