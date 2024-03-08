@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm NoelP</h1>
-<h3 align="center">A passionate backend developer from The Netherlands!</h3>
+<h3 align="center">A passionate developer from The Netherlands!</h3>
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/1090282176492339220">
 </div>
     
 - 🔭 I’m currently working on **getting my Degree**
 
-- 🌱 I’m currently learning more about **C#, Lua and expanding my knowledge in Python**
+- 🌱 I’m currently learning more about **Livewire 🪼**
 
 - 👨‍💻 All of my projects are available at [https://noelp.dev/](https://noelp.dev/)
 
-- 💬 Ask me about **Python and related technologies**
+- 💬 Ask me about **Python, Laravel and related technologies**
 
 - 📫 How to reach me **info@noelp.dev**
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelistired&label=Profile%20views&color=c91362&style=flat-square" alt="noelistired" /></p>
