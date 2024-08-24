@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm NoelP</h1>
 <h3 align="center">Working remotely since 2022</h3>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1090282176492339220?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1090282176492339220)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelistired&label=Profile%20views&color=f7020f&style=flat" alt="noelistired" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noelistired" alt="noelistired" /></a> </p>
