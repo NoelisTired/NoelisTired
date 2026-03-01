@@ -5,7 +5,7 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-final class BoyK07ServiceProvider extends ServiceProvider
+final class NoelisTiredServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
