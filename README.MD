@@ -14,7 +14,7 @@ final class NoelisTiredServiceProvider extends ServiceProvider
             'role' => 'Software Developer',
             'location' => 'The Netherlands',
 
-            'education' => 'Fonty's Hogeschool Tilburg',
+            'education' => 'Fontys Hogeschool Tilburg',
             'work'      => 'Entrepreneur @ noelp.dev',
 
             'favorites' => [
